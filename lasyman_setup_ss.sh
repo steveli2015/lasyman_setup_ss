@@ -18,7 +18,7 @@ USER="root"
 PORT="3306"
 ROOT_PASSWD=""
 DB_NAME="shadowsocks"
-SQL_FILES="invite_code.sql ss_admin.sql ss_node.sql ss_reset_pwd.sql user.sql"
+SQL_FILES="invite_code.sql ss_user_admin.sql ss_node.sql ss_reset_pwd.sql user.sql"
 CREATED=0
 RESET=1
 #----------------------------------------
